@@ -1,5 +1,5 @@
 # stat350_final
-Repo for Regression Analysis Final Project
+Repo for Regression Analysis Final Project: Rohit Rastogi, Jake Atlas, Chaitra Subramaniam
 
 This is a Python 3 Jupyter Notebook
 
