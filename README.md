@@ -1,4 +1,4 @@
-# stat350_final
+# Breast Cancer Classifier
 Repo for Regression Analysis Final Project: Rohit Rastogi, Jake Atlas, Chaitra Subramaniam
 
 This is a Python 3 Jupyter Notebook
